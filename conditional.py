@@ -8,9 +8,9 @@
 #     else:
 #         print("number is less than 50")
 
-#Boolean operations
-user = "Admin"
-logged_in = False
+# #Boolean operations
+# user = "Admin"
+# logged_in = False
 
 # #You can replace and with or
 # if user == "Admin" and logged_in:
@@ -18,7 +18,7 @@ logged_in = False
 # else:
 #     print("wrong credentials")
 
-if not logged_in:
-    print("Please log_in")
-else:
-    print("Welcome")
+# if not logged_in:
+#     print("Please log_in")
+# else:
+#     print("Welcome")
